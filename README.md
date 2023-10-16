@@ -1,8 +1,11 @@
 <div align='center'>
 <img alt="paisagem" width="70%" src="./assets/gif-readme.gif">
 </div>
-
-![snake gif](https://github.com/ViniSouza001/ViniSouza001/blob/output/github-contribution-grid-snake.svg)
+<div>
+  
+  ![snake gif](https://github.com/ViniSouza001/ViniSouza001/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 <h2 align='left'>Currently studying</h2>
