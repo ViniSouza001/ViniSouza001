@@ -19,7 +19,7 @@
 <img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniSouza001&theme=blue-green"><br><br>
 
   <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinisouza001&bg_color=20181c&color=9e4c98&line=630c92&point=b62087&area=true&hide_border=true" align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinisouza001&bg_color=040f0f&color=2c90b7&line=07582f&point=0cf16a&area=true&hide_border=true" align="center">
 </div>
   </div>
 <div>
