@@ -17,11 +17,8 @@
 <img align="center" width="510px" src="https://github-readme-stats.vercel.app/api?username=vinisouza001&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 <img align="center" width="296px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisouza001&layout=compact&langs_count=16&theme=blue-green"><br>
 <img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniSouza001&theme=blue-green"><br><br>
-
-  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinisouza001&bg_color=040f0f&color=2c90b7&line=07582f&point=0cf16a&area=true&hide_border=true" align="center">
 </div>
-  </div>
+
 <div>
 <h2 align='left'>Contacts</h2>
   <div align='left'>
