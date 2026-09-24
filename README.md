@@ -13,12 +13,6 @@
     <img align="center" alt="Vini-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 <br>
-<h2 align='left'>My stats</h2>
-<div align='center'>
-<img align="center" width="510px" src="https://github-readme-stats.vercel.app/api?username=vinisouza001&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-<img align="center" width="298px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisouza001&layout=compact&langs_count=16&theme=blue-green"><br>
-
-</div>
 
 <div>
 <h2 align='left'>Contacts</h2>
